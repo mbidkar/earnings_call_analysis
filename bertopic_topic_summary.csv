@@ -1,0 +1,8 @@
+Topic,Count,Name,Representation,representative_filenames
+0,11,0_revenue_growth_azure_currency,"['revenue', 'growth', 'azure', 'currency', 'constant', 'increased', 'microsoft', 'cloud', '365', 'driven']","['MSFT_2022Q3.txt', 'MSFT_2023Q3.txt', 'MSFT_2024Q1.txt']"
+1,11,1_quarter_apple_tim_iphone,"['quarter', 'apple', 'tim', 'iphone', 'services', 'luca', 'billion', 'new', 'revenue', 'record']","['AAPL_2024Q1.txt', 'AAPL_2023Q4.txt', 'AAPL_2023Q2.txt']"
+2,11,2_aws_customers_think_prime,"['aws', 'customers', 'think', 'prime', 'amazon', 'lot', 'just', 'cost', 'weve', 'brian']","['AMZN_2024Q2.txt', 'AMZN_2023Q2.txt', 'AMZN_2024Q1.txt']"
+3,11,3_ai_data_nvidia_center,"['ai', 'data', 'nvidia', 'center', 'computing', 'software', 'new', 'cloud', 'jensen', 'generative']","['NVDA_2024Q4.txt', 'NVDA_2024Q2.txt', 'NVDA_2024Q1.txt']"
+4,11,4_elon_like_musk_yes,"['elon', 'like', 'musk', 'yes', 'tesla', 'think', 'just', 'martin', 'car', 'production']","['TSLA_2021Q4.txt', 'TSLA_2023Q1.txt', 'TSLA_2022Q4.txt']"
+5,11,5_google_youtube_search_ai,"['google', 'youtube', 'search', 'ai', 'growth', 'revenues', 'quarter', 'sundar', 'cloud', 'billion']","['GOOGL_2023Q3.txt', 'GOOGL_2023Q1.txt', 'GOOGL_2023Q2.txt']"
+6,11,6_think_going_ai_reels,"['think', 'going', 'ai', 'reels', 'billion', 'just', 'ads', 'people', 'apps', 'business']","['META_2023Q1.txt', 'META_2023Q3.txt', 'META_2023Q2.txt']"

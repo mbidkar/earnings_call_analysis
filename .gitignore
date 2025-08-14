@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.env
+
+# Jupyter Notebook output files
+*.ipynb_checkpoints
+**/case_study.ipynb.backup
+**/case_study.nbconvert.ipynb

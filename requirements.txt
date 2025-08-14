@@ -1,0 +1,25 @@
+# Core data science packages
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.2.0
+
+# Visualization
+squarify>=0.4.3
+
+# NLP and topic modeling
+bertopic>=0.14.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+
+# API and utilities
+anthropic>=0.3.0
+tqdm>=4.65.0
+
+# Jupyter
+jupyterlab>=4.0.0
+notebook>=7.0.0
