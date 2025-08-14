@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Earnings Call AI Analysis
 This project analyzes AI-related discussions in earnings call transcripts of major tech companies using natural language processing and sentiment analysis.
 
